@@ -540,7 +540,7 @@ MonoBehaviour:
   - {fileID: 1651270893}
   - {fileID: 587220158}
   - {fileID: 610325050}
-  carPrefab: {fileID: 2322843428307200540, guid: fbd12a79360824a318e232f73697ce29,
+  carPrefab: {fileID: 2985652111410512988, guid: fbd12a79360824a318e232f73697ce29,
     type: 3}
 --- !u!1 &1651270893
 GameObject:
