@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{8FE35AED-406F-222B-7CAB-853C271086BA}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SpawnController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="44" Column="1" />
+      <File FileName="Assets/Scripts/CarController.cs" Line="22" Column="1" />
+      <File FileName="Assets/Scripts/SpawnController.cs" Line="13" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
